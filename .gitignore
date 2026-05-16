@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2026 James Harton
+#
+# SPDX-License-Identifier: Apache-2.0
+
+# Per-sub-package build artefacts
+**/_build/
+**/cover/
+**/deps/
+**/doc/
+**/tmp/
+
+erl_crash.dump
+*.ez
+
+# Local tool config
+.claude/
