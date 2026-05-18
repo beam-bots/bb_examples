@@ -45,7 +45,7 @@ defmodule BB.Examples.ArmCommands.MixProject do
 
   defp deps do
     [
-      {:bb, "~> 0.15.4"},
+      {:bb, "~> 0.15"},
       {:bb_ik_dls, "~> 0.3"},
 
       # dev/test
