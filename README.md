@@ -10,6 +10,7 @@ SPDX-License-Identifier: Apache-2.0
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache--2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 [![REUSE status](https://api.reuse.software/badge/github.com/beam-bots/bb_examples)](https://api.reuse.software/info/github.com/beam-bots/bb_examples)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/beam-bots/bb_examples)
 
 A collection of small, opinionated example mix packages for
 [Beam Bots](https://github.com/beam-bots/bb) projects. Each subdirectory is an
