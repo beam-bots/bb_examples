@@ -4,6 +4,8 @@
 
 [
   tools: [
-    {:credo, "mix credo --strict"}
+    {:credo, "mix credo --strict"},
+    {:hex_audit, "mix hex.audit"},
+    {:mix_audit, false}
   ]
 ]
